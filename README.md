@@ -1,4 +1,4 @@
 # Suzannekathyrene-demo
 This is my first repository.<br>
 
-College-Shri vishnu enginnering college.
+College-Shri vishnu enginnering college for women.
